@@ -3,17 +3,17 @@ config {
 }
 
 SELECT
-  "apples" AS fruit,
+  "abc" AS fruit,
   2 AS count
 UNION ALL
 SELECT
-  "oranges" AS fruit,
+  "xyx" AS fruit,
   5 AS count
 UNION ALL
 SELECT
-  "pears" AS fruit,
+  "fgh" AS fruit,
   1 AS count
 UNION ALL
 SELECT
-  "bananas" AS fruit,
+  "agjgj" AS fruit,
   0 AS count
